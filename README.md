@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💬 Ask me about anything mobile device related, especially anything MDM related   
 
 <!--
 **MrTechGadget/MrTechGadget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
